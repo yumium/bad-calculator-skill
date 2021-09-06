@@ -1,5 +1,5 @@
 # <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/calculator.svg" card_color="#8CE0FE" width="50" height="50" style="vertical-align:bottom"/> Bad Calculator
-Gives (wrong!) answers to your arithematic calcul
+A terrible calculator
 
 ## About
 Gives (wrong!) answers to your arithmetic calculation requests
